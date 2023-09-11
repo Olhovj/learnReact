@@ -1,5 +1,7 @@
-const Title = () => {
-  return <span>1</span>
+import './Title.css'
+
+const Title = ({ content }) => {
+  return <h1 className="title">{content}</h1>
 }
 
 export default Title
