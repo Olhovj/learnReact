@@ -13,7 +13,12 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 
+  --primary-400: rgba(123, 110, 246, 1);
+
   --black-10: rgba(0, 0, 0, 0.1);
+  --grey-50: rgba(235, 238, 245, 1);
+  --black-65: rgba(0, 0, 0, 0.65);
+  --grey-300: rgba(142, 149, 169, 1);
   --grey-600: rgba(71, 80, 105, 1);
   --grey-700: rgba(50, 59, 84, 1);
 }

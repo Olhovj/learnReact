@@ -1,7 +1,7 @@
 import './Title.css'
 
 const Title = ({ content }) => {
-  return <h1 className="title">{content}</h1>
+  return <span className="title">{content}</span>
 }
 
 export default Title

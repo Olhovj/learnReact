@@ -1,0 +1,20 @@
+.MainPageTitle {
+  width: calc(282px * 4 + 24px * 3);
+}
+
+.MainPageTitle > .text {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 16px;
+}
+
+.searchTitle {
+  height: 64px;
+  display: flex;
+  margin-top: 24px;
+  margin-bottom: 80px;
+}
+.searchTitle > button {
+  margin-left: 8px;
+}

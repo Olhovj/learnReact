@@ -1,10 +1,10 @@
 import './Input.css'
 
-const Input = ({ LeftIcon, RightIcon }) => {
+const Input = ({ LeftIcon, RightIcon, placeholder }) => {
   return (
     <div className="inputContainer">
       {LeftIcon && <LeftIcon className="iconLeft" />}
-      <input placeholder="Тест" />
+      <input placeholder={placeholder} />
       {RightIcon && <RightIcon />}
     </div>
   )
