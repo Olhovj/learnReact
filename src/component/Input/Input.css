@@ -1,0 +1,41 @@
+.inputContainer {
+  height: auto;
+  display: flex;
+  padding: 12px 16px;
+  align-items: center;
+  gap: 16px;
+  border-radius: 12px;
+  border: 1px solid var(--grey-700, #323b54);
+  background: var(--black-10, rgba(0, 0, 0, 0.1));
+}
+
+.inputContainer .iconLeft {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.inputContainer input {
+  display: flex;
+  height: 40px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  flex: 1 0 0;
+  border: none;
+  outline: none;
+  background: var(--black-10, rgba(0, 0, 0, 0.1));
+}
+.inputContainer input::placeholder {
+  color: var(--grey-600, #475069);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+}
+
+.inputContainer .iconRight {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
