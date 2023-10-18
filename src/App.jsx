@@ -1,7 +1,15 @@
-import './App.css'
+import Layout from './component/Layout'
+import MainPageTitle from './component/MainPageTitle/MainPageTitle'
+
+import Posts from './component/Posts'
 
 function App() {
-  return <div>Test</div>
+  return (
+    <Layout>
+      <MainPageTitle />
+      <Posts />
+    </Layout>
+  )
 }
 
 export default App

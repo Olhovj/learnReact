@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "poster": "Black Widow.png",
+    "title": "Black Widow",
+    "rating": 324
+  },
+  {
+    "id": 2,
+    "poster": "Shang Chi.png",
+    "title": "Shang Chi",
+    "rating": 124
+  },
+  {
+    "id": 3,
+    "poster": "Loki.png",
+    "title": "Loki",
+    "rating": 489
+  },
+  {
+    "id": 4,
+    "poster": "How I Met Your Mother.png",
+    "title": "How I Met Your Mother",
+    "rating": 444
+  },
+  {
+    "id": 5,
+    "poster": "Money Heist.png",
+    "title": "Money Heist",
+    "rating": 498
+  },
+  {
+    "id": 6,
+    "poster": "Friends.png",
+    "title": "Friends",
+    "rating": 5154
+  },
+  {
+    "id": 7,
+    "poster": "The Big Bang Theory.png",
+    "title": "The Big Bang Theory",
+    "rating": 9843
+  },
+  {
+    "id": 8,
+    "poster": "Two And a Half Men.png",
+    "title": "Two And a Half Men",
+    "rating": 1
+  }
+]

@@ -1,0 +1,14 @@
+.navBar {
+  display: flex;
+  gap: 16px;
+}
+
+.navBar a {
+  padding: 12px 16px 12px 16px;
+  color: #a8aebf;
+  cursor: pointer;
+}
+
+.navBar a:hover {
+  color: #ffffff;
+}
